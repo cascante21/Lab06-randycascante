@@ -1,1 +1,1 @@
-# Lab06-randycascante
+# Lab06-randycascante-Callbacks-FuncionesLambda
